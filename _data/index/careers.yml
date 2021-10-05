@@ -1,15 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Dianping
-  link: http://www.dianping.com/
-  date: Jan 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Java Developer
+- name: Hygon
+  link: https://www.sugon.com/
+  date: Jan 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: C Developer
 
-- name: Madhouse
-  link: http://www.madhouse.cn/
+- name: ASR
+  link: https://www.qcc.com/product/bff5b500-53d4-4caa-a3e7-dc0fd95b20b2.html
+  date: Mar 2017 - Jan 2019
+  job: C Developer
+
+- name: Chinasoft International(Outsourcing in Huawei)
+  link: http://www.chinasofti.com/
   date: Mar 2015 - Jan 2017
-  job: Java Developer
+  job: C Developer
 
-- name: Chexiang
-  link: http://www.chexiang.com/
-  date: Jul 2014 - Mar 2015
+- name: Neusoft
+  link: https://www.neusoft.com/cn/
+  date: Jul 2013 - Mar 2015
