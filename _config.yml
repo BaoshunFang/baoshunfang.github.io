@@ -38,7 +38,7 @@ plugins:
 #
 owner:
   name: FangBaoshun
-  moonspring: MoonSpring.jpeg
+  avatar: avatar.jpg
   job: "C Developer"
   bio: "A CPU Security developer who loves design awesome things. Working for Haiguang at Shanghai, China."
   email: fangbaos@gmail.com
