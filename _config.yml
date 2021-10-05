@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: fangbaoshun
+title: FangBaoshun
 email: fangbaos@gmail.com
-description: fangbaoshun's blog,powered by jekyll.
+description: FangBaoshun's blog,powered by jekyll.
 url: https://fangbaoshun.github.io # the base hostname & protocol for your site
 keywords: ["jekyll", "java", "scala","blog"]
 
