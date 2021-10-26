@@ -1,4 +1,10 @@
-# 编译安装Linux内核
+---
+layout: post
+title:  编译安装Linux内核
+categories: [linux]
+tags: [linux]
+---
+
 ## 内核下载地址
 `kernel.org  `
 国内镜像：`https://kernel.source.codeaurora.cn/pub/scm/linux/kernel/git/torvalds/linux.git/`
