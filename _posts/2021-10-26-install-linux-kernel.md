@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  编译安装Linux内核
-categories: [linux]
-tags: [linux]
+categories: [kernel]
+tags: [linux, kernel]
 ---
 
 ### 内核下载地址

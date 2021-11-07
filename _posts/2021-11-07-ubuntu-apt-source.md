@@ -2,7 +2,7 @@
 layout: post
 title:  ubuntu更换阿里云源(16.04 18.04 20.04)
 categories: [ubuntu]
-tags: [ubuntu]
+tags: [ubuntu, apt]
 ---
 
 ### 配置方法
