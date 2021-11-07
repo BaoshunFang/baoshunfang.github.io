@@ -22,7 +22,7 @@ vim sources.list
 ggdG #删除文件其他内容
 paste #粘贴复制好的内容并退出
 ```
-####更新
+#### 更新
 ```
 apt-get update
 apt-get upgrade
