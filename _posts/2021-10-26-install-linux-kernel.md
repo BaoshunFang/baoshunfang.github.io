@@ -6,8 +6,8 @@ tags: [linux, kernel]
 ---
 
 ### 内核下载地址
-`kernel.org  `
-国内镜像：`https://kernel.source.codeaurora.cn/pub/scm/linux/kernel/git/torvalds/linux.git/`
+[官方源](https://kernel.org)
+[国内镜像](https://kernel.source.codeaurora.cn/pub/scm/linux/kernel/git/torvalds/linux.git/)
 ### 环境配置
 `sudo apt update && sudo apt upgrade  `
 `sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-dev bc flex libelf-dev bison`
