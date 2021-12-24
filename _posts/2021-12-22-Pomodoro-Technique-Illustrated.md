@@ -2,7 +2,7 @@
 layout: post
 title:  番茄工作法简介
 categories: [Efficiency]
-tags: [Efficiency][Pomodoro]
+tags: [Efficiency, Pomodoro]
 ---
 
 最近阅读了《番茄工作法图解》一书，结合自己的实践经验和个人理解，写一篇总结。番茄工作法的核心思路是：
