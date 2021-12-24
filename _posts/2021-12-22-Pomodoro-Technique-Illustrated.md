@@ -35,9 +35,9 @@ tags: [Efficiency, Pomodoro]
 
 - 任务的复杂度与人所获得的激励的关系如下面两图所示，所以才会出现挑战过大或过小，任务过难或过于简单时，都无法达到最佳状态，这也是《心流》一书中提到的一个观点。而番茄工作法25min中内只需要关注这25min需要处理的工作，既没有巅峰，也没有低估，是一种可持续的步伐。
 
-![Flow](../img/posts/pomodo/flow.png "心流")  
+![Flow](/img/posts/pomodo/flow.png "心流")  
 
-![Excitation](../img/posts/pomodo/excitation.png "激励")
+![Excitation](/img/posts/pomodo/excitation.png "激励")
 
   
 
@@ -55,7 +55,7 @@ tags: [Efficiency, Pomodoro]
 
 #### 阶段  
 
-![Stage](../img/posts/pomodo/stage.png "阶段")
+![Stage](/img/posts/pomodo/stage.png "阶段")
 
 如上图所示即为番茄工作法的五个阶段：
 
@@ -145,7 +145,7 @@ tags: [Efficiency, Pomodoro]
 
   - [滴答清单](https://dida365.com):这款软件的优点是支持MAC、Windows、浏览器、IOS、Android等平台，功能也非常多。有付费和免费两个版本，免费版本已经够用。而且还可以统计自己的番茄钟情况，附图是我最近完成的情况。缺点是无法记录内部中断外部中断，没有记录任务预计需要的番茄数的位置，我都是在每个任务的备注中记录，也可以用。
 
-  ![Dida](../img/posts/pomodo/dida.png "滴答清单")
+  ![Dida](/img/posts/pomodo/dida.png "滴答清单")
 
   - [XorTime](https://www.xoring.com/):这是一款免费的软件，优点是它是完全按照番茄工作法设计的，可以预估番茄数、可以记录内部中断、外部中断；缺点是只有windows版本，而且有时候数据会丢失。
 
@@ -153,7 +153,7 @@ tags: [Efficiency, Pomodoro]
 
 最后附上番茄工作法的流程图：
 
-![Process](../img/posts/pomodo/process.png "流程图")
+![Process](/img/posts/pomodo/process.png "流程图")
 
 ### Reference  
 
