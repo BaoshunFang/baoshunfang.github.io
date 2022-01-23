@@ -104,7 +104,10 @@ UPDATE table_name SET field1=new-value1, field2=new-value2
 
 #### 删除数据 
 
-`DELETE FROM table_name [WHERE Clause]` 
+````
+DELETE FROM table_name [WHERE Clause]
+truncate table table_name
+````
 
 ### 导出和导入数据 
 
